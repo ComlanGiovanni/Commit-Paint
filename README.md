@@ -1,1 +1,3 @@
-# paint-github-4eb71
+#
+
+https://github.com/anduleh/paint-github
